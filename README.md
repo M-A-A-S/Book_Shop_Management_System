@@ -11,7 +11,7 @@ This system enables secure authentication, role-based access, and advanced searc
 - RESTful API integration for smooth client-server interaction
 - Optimized SQL queries using T-SQL stored procedures
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Frontend:** React  
 - **Backend:** ASP.NET Core Web API  
 - **Database:** SQL Server, T-SQL (Stored Procedures)  
